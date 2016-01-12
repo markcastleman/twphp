@@ -1,3 +1,3 @@
 <body>
-        <h1>Hello, I am the most friendly test in the entire World!</h1>
+        <h1>Hello, I am a friendly test. Go World!</h1>
 </body>
